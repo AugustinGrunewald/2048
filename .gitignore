@@ -1,3 +1,4 @@
 **/training/*
 **/__pycache__/*
 main.py
+!**/.gitkeep
